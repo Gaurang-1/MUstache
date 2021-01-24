@@ -1,0 +1,19 @@
+h3{
+    font-size: 50px;
+    font-family: 'Sansita Swashed', cursive;
+}
+
+button{
+    background-color: black;
+    border-style: double;
+    border-color: white;
+    border-width: 3px;
+    border-radius: 100px;
+    height: 150px;
+    width: 150px;
+    font-size: 20px;
+    color: white;
+    font-family: 'Sansita Swashed', cursive;
+    margin-right: 1000px;
+    margin-top: 250px;
+}
